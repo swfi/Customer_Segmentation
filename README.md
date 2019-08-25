@@ -1,3 +1,3 @@
 # Customer Segmentation
 
-This is a modified project by using open data source from [here](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
+This is a modified project based on the information from [here](https://github.com/udacity/machine-learning/tree/master/projects/customer_segments).
